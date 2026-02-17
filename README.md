@@ -1,5 +1,5 @@
 # rg34xxsp-stockmod-themes
-Update 16 FEB 2026- A major version updtae of the theme is now available, please headover to the the releases page of this repo to get it. Further instructions are also available. You can checkout the new features in this [Video](https://youtube.com/shorts/gMK-QDfsXbU?feature=share)
+Update 16 FEB 2026- A major version updtae of the theme is now available, please headover to the the releases page of this repo to get it. Further instructions are also available.
 The themes are adaptable to other devices but would require testers
 
 Custom made themes for the Anbernic RG34XXSP Device Mainly running on [stock MOD OS](https://github.com/cbepx-me/Anbernic-H700-RG-xx-StockOS-Modification) but can also work on stock unmodified OS.
