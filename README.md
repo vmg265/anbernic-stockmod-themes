@@ -8,3 +8,6 @@ A fellow redditor has detailed on how to make your own themes and how to apply t
  , the stock mod os on the other hand has a theme manager, so you can just use that to install the theme as a zip
 
 Buy me a cup of tea? [Paypal](https://paypal.me/VarahamihirGupta366)
+
+Check out the new theme features
+[![Check out the new theme features](https://img.youtube.com/vi/gMK-QDfsXbU/0.jpg)](https://www.youtube.com/watch?v=gMK-QDfsXbU)
